@@ -1,0 +1,1 @@
+print('tekst = %(a1)s float=%(b1).4f'  %{'a1':'Kanapek','b1':3.14})
